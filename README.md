@@ -76,8 +76,8 @@ This project fine-tunes a RoBERTa-based transformer model pre-trained on hate sp
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+https://github.com/O0gw4y/AI-Based-Hate-Speech-and-Extremism-Detection-System
+cd AI-Based-Hate-Speech-and-Extremism-Detection-System
 ```
 
 ### 2. Install dependencies
