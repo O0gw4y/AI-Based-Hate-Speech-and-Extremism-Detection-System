@@ -224,3 +224,8 @@ Probs      : {'hatespeech': 0.66%, 'normal': 1.11%, 'offensive': 98.23%}
 
 - **HateXplain dataset** — Mathew et al., AAAI 2021
 - **Base model** — [cardiffnlp/twitter-roberta-base-hate](https://huggingface.co/cardiffnlp/twitter-roberta-base-hate) by Cardiff NLP
+
+- ## Contributors
+
+- Muhammad Taha Malik
+- Sonaf ur Rehman
